@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on projects related to nature, climate and social as a part of [Sustainability Exploration and Environmental Data Science](https://www.cgi.com/uk/en-gb/sustainability/sustainability-exploration-and-environmental-data-science-seeds) team.
 - 💬 Experienced in **GIS, Python, Earth Observation, Google Cloud Platform**
 - 📫 Reach out to me on my email **raj.modi@cgi.com**
-- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1hKY9bVWXGR7pt5LTVhRja0jh2Wdkrdb8/view?usp=sharing)**
+- 📄 Know about my experiences **[here](https://drive.google.com/file/d/1PxY8uxaq51bViPeMUl4YF3vOzQ73NSXm/view?usp=sharing)**
 - ⚡ Fun fact -  **I was stuck on a top of a snow hil in my recent trip to Iceland**
 
 </div><h3 align="left">Connect with me:</h3>
